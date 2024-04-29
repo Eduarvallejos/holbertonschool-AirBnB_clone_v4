@@ -160,6 +160,7 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Eduar Vallejos - [Github](https://github.com/Eduarvallejos) / [linKedin](https://www.linkedin.com/in/eduar-vallejos-chumbe/)
+Kristian Cacho - [Github](https://github.com/KristhianCacho) / [linKedin](https://www.linkedin.com/in/kristhian-cacho-hoyos-3b776b18a/)
 
 Second part of Airbnb: Joann Vuong
 ## License
