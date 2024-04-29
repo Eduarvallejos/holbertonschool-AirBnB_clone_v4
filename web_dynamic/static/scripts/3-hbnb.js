@@ -25,13 +25,15 @@ $(document).ready(function () {
     }
   });
 
+  // Make a POST request to retrieve available places
   $.ajax({
     type: 'POST',
     url: 'http://0.0.0.0:5001/api/v1/places_search',
-    data: '{}',
+    data: '{}', // Sending an empty body as no filters are specified
     dataType: 'json',
     contentType: 'application/json',
     success: function (data) {
+      // Iterate over the results and append each place as an article in the 'places' section
       $('SECTION.places').append(data.map(place => {
         return `<article>
                   <div class="title_box">
